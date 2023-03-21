@@ -7,7 +7,7 @@ const client = new Client({
   ]
 });
 
-const keepAlive = require("./server")
+const keepAlive = require("./server");
 
 // detect links in messages
 const regex = "((?:(http|https|Http|Https|rtsp|Rtsp):\\/\\/(?:(?:[a-zA-Z0-9\\$\\-\\_\\.\\+\\!\\*\\'\\(\\)"
