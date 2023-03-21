@@ -1,6 +1,8 @@
 <br />
 <p align="center">
-  <a href="https://github.com/francescocastiglione/Link-Only-Discord-Bot"></a>
+  <a href="https://github.com/francescocastiglione/Link-Only-Discord-Bot">
+    <img src="images/discord.png" alt="Link-Only-Discord-Bot" width="80" height="80">
+  </a>
   
   <h3 align="center">Link-Only-Discord-Bot</h3>
   
