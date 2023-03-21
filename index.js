@@ -50,7 +50,7 @@ const regex = "((?:(http|https|Http|Https|rtsp|Rtsp):\\/\\/(?:(?:[a-zA-Z0-9\\$\\
   + "\\-\\.\\+\\!\\*\\'\\(\\)\\,\\_])|(?:\\%[a-fA-F0-9]{2}))*)?"
   + "(?:\\b|$)";
 
-const channelIDs = ['826965978444726283'];
+const channelIDs = [''];
 
 // ready event (when it's connected to the server)
 client.once("ready", () => {
