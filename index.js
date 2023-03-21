@@ -65,6 +65,6 @@ client.on("messageCreate", msg => {
 })
 
 // client login to the server
-const bot_token = process.env['TOKEN'];
+const bot_token = '';
 keepAlive();
 client.login(bot_token);
